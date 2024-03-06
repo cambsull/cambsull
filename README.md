@@ -10,8 +10,7 @@ are flexible, powerful tools that can easily interface with front-end design wor
 
 #### 🐦 I also recently [built a website](https://lewistoncbc.netlify.app) for a local chapter of the Audubon Society, enabling the 61,000 residents of that area to easily connect with their local organization!
 
-#### 📚 I'm working on a thorough [series of notes](https://docs.google.com/document/d/1IYbfrk1qRBY3FRNpe1NPU4l5CYZhV4KgDGI5FhcMSmc/edit) based on [Lane Wagner's](https://github.com/wagslane) excellent course on obtaining a job in software development.
-After finishing and editing these notes, I will host them right here on GitHub to use as a reference guide for new developers and current job-seekers!
+#### 📚 I'm working on a thorough [series of notes](https://docs.google.com/document/d/1IYbfrk1qRBY3FRNpe1NPU4l5CYZhV4KgDGI5FhcMSmc/edit) based on [Lane Wagner's](https://github.com/wagslane) excellent course on obtaining a job in software development. After finishing and editing these notes, I will host them right here on GitHub to use as a reference guide for new developers and current job-seekers!
 
 #### ✉️ The best way to reach me is [through my LinkedIn](https://www.linkedin.com/in/cambria-sullivan-ab3647a6/).
 
