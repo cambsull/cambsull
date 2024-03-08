@@ -6,7 +6,7 @@ are flexible, powerful tools that can easily interface with front-end design wor
 
 ## ⚡ Quick info:
 
-#### 🕹️ I recently wrote a cool JavaScript [Steam Web API Wrapper Library](https://github.com/cambsull/SteamWebAPILibrary) that makes it easy to work with the Steam Web API. I'm using it in another Steam-related project, coming soon!
+#### 🕹️ I am collaborating on a team developing a cool JavaScript [Steam Web API Wrapper Library](https://github.com/cambsull/SteamWebAPILibrary) that makes it easy to work with the Steam Web API. I'll be using it in another Steam-related project, coming soon!
 
 #### 🐦 I also recently [built a website](https://lewistoncbc.netlify.app) for a local chapter of the Audubon Society, enabling the 61,000 residents of that area to easily connect with their local organization!
 
