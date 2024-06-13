@@ -1,8 +1,6 @@
 ## 🙌 You're here! 
 
-I am Cambria Sullivan, and I've been coding in some capacity or another since I was a little kid writing "Choose Your Own Adventure" programs in QBASIC on a PC that took ten full minutes to boot to Windows. To me, coding is one of the
-best ways that I can contribute to the world and hopefully make life a little better for as many people as possible. I have enjoyed working with a number of technologies, but at my core I am a JavaScript and React enthusiast because they
-are flexible, powerful tools that can easily interface with front-end design work to create a great user experience that quickly meets the needs of the end user!
+I am Cambria Sullivan, and to me coding is one of the best ways that I can contribute to the world and hopefully make life a little better for as many people as possible. I have enjoyed working with a number of technologies, but at my core I am a JavaScript and React enthusiast because they are flexible, powerful tools that can easily interface with front-end design work to create a great user experience that quickly meets the needs of the end user!
 
 ## ⚡ Quick info:
 
