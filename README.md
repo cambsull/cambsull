@@ -4,7 +4,7 @@ I am Cambria Sullivan, and to me coding is one of the best ways that I can contr
 
 ## ⚡ Quick info:
 
-#### 🕹️ I'm collaborating on a team developing a cool JavaScript [Steam Web API Wrapper Library](https://github.com/cambsull/SteamWebAPILibrary) that makes it easy to work with the Steam Web API. I'll be using it in another Steam-related project, coming soon!
+#### 🕹️ I recently released a JavaScript-based library for the Steam Web API as an NPM package, which has now been downloaded over 200 times! The [repo can be found here](https://github.com/cambsull/SteamWebAPILibrary), and the [NPM package is available here](https://www.npmjs.com/package/swalib).
 
 #### 🐦 I also recently worked with a team of developers to [build a website](https://lewistoncbc.netlify.app) for a local chapter of the Audubon Society, enabling the 61,000 residents of that area to easily connect with their local organization!
 
