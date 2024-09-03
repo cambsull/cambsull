@@ -1,10 +1,8 @@
 ## 🙌 You're here! 
 
-I am Cambria Sullivan, and to me coding is one of the best ways that I can contribute to the world and hopefully make life a little better for people. I have enjoyed working with a number of technologies, but at my core I am a JavaScript and React enthusiast because they are flexible, powerful tools that can easily interface with front-end design work to create a great user experience that quickly meets the needs of the end user!
+I am Cambria Sullivan, and to me coding is one of the best ways that I can contribute to the world and hopefully make life a little better for people. I am currently working as a Full-Stack Engineer intern for a company that is building a recruitment platform and job board focused on the professional engineering sector! I have also recently taken an interest in cybersecurity and am having a blast learning about the world of pen testing, using nmap, and how to keep the applications I build updated and secure!
 
 ## ⚡ Quick info:
-
-#### 🛠️ I am currently working as a Full-Stack Engineer intern for a company that is building a recruitment platform and job board focused on the professional engineering sector!
 
 #### 🕹️ I recently released a JavaScript-based library for the Steam Web API as an NPM package, which has now been downloaded over 200 times! The [repo can be found here](https://github.com/cambsull/SteamWebAPILibrary), and the [NPM package is available here](https://www.npmjs.com/package/swalib).
 
