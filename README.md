@@ -8,6 +8,6 @@ I am Cambria Sullivan, and to me coding is one of the best ways that I can contr
 
 #### 🐦 I also worked with a team of developers to [build a website](https://lewistoncbc.netlify.app) for a local chapter of the Audubon Society, enabling the 61,000 residents of that area to easily connect with their local organization!
 
-#### 👩‍🍳 I recently started [building an app that uses the Edamam API](https://github.com/cambsull/adhdRecipeFinder) to search for recipes, and then sorts them based on an algorithm that takes into account the type of dish, the total number of ingredients, and the total preparation time. This app is designed for neurodivergent people who want to be able to quickly locate recipes based on their relative complexity and time needed to cook them!
+#### 👩‍🍳 I recently started [building an app that uses the Edamam API](https://github.com/cambsull/Recipe-Complexity-Optimizer) to search for recipes, and then sorts them based on an algorithm that takes into account the type of dish, the total number of ingredients, and the total preparation time. This app is designed for neurodivergent people who want to be able to quickly locate recipes based on their relative complexity and time needed to cook them!
 
-#### ✉️ The best way to reach me is [through my LinkedIn](https://www.linkedin.com/in/cambria-sullivan-ab3647a6/).
+#### ✉️ The best way to reach me is [through my LinkedIn](https://www.linkedin.com/in/cambria-sullivan).
