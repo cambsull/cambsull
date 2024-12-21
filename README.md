@@ -1,6 +1,6 @@
 ## 🙌 You're here! 
 
-I am Cambria Sullivan, and to me coding is one of the best ways that I can contribute to the world and hopefully make life a little better for people. I am currently contracting for a company that is building a recruitment platform and job board focused on the professional engineering sector! I have also recently taken an interest in cybersecurity and have been learning about the world of pen testing, using nmap, and how to keep the applications I build updated and secure.
+I am Cambria Sullivan, and to me coding is one of the best ways that I can contribute to the world and hopefully make life a little better for people. I am currently contracting for a company that is building a recruitment platform and job board focused on the professional engineering sector. I have also recently taken an interest in cybersecurity and have been learning about the world of pen testing, using nmap, and how to keep the applications I build updated and secure!
 
 ## ⚡ Quick info:
 
