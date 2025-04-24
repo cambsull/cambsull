@@ -1,6 +1,6 @@
 ## 🙌 Hello! 
 
-I am Cambria Sullivan, and to me coding is one of the best ways that I can contribute to the world and hopefully make life a little better for people. I am currently contracted with [Aquifer PE](https://www.aquiferpe.com/), where we are building a recruitment platform and job board focused on the professional engineering sector.
+I am Cambria Sullivan, and I help early-stage startups go from idea to launch, working hands-on with founders to define MVPs, select the right tech stack, and build scalable products. I am currently contracted with [Aquifer PE](https://www.aquiferpe.com/), where we are building a recruitment platform and job board focused on the professional engineering sector.
 
 ✉️ The best way to reach me is [through my LinkedIn](https://www.linkedin.com/in/cambria-sullivan).
 
