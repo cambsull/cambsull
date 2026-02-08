@@ -4,7 +4,7 @@ I am Cambria Sullivan, a full-stack engineer based out of Washington state. I am
 
 If you want to talk, the best way to reach me is [through my LinkedIn](https://www.linkedin.com/in/cambria-sullivan).
 
-## The short version: 
+## My story: 
 
 In the summer of 2023, I decided to change my career trajectory. I have always been interested in computing and dabbled in programming throughout my life, but after finding myself unfulfilled in a management role for a local government organization, I decided it was time to really make a change. Although my bachelor's degree is in anthropology, I dedicated myself to becoming a professional software developer and spent the second half of 2023 teaching myself how to code, design, and think like a programmer. Codecademy was my platform of choice, and they even wrote a [feature about me](https://www.codecademy.com/resources/blog/from-management-to-freelance-web-developer) after I completed my coursework.
 
