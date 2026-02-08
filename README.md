@@ -16,9 +16,9 @@ I love my work and can't imagine doing anything else. To me, there's nothing lik
 
 ## The other stuff: 
 
-#### Recently (as of 2026), I have taken an interest in Godot 4, and in my spare time I like to tinker, program, and build games with that engine.
+Recently (as of 2026), I have taken an interest in Godot 4, and in my spare time I like to tinker, program, and build games with that engine.
 
-#### I released a JavaScript-based library for the Steam Web API as an NPM package, which has now been downloaded over 700 times! The [repo can be found here](https://github.com/cambsull/SteamWebAPILibrary), and the [NPM package is available here](https://www.npmjs.com/package/swalib).
+I released a JavaScript-based library for the Steam Web API as an NPM package, which has now been downloaded over 700 times! The [repo can be found here](https://github.com/cambsull/SteamWebAPILibrary), and the [NPM package is available here](https://www.npmjs.com/package/swalib).
 
-#### I also enjoy chess, playing guitar, weight lifting, and hiking.
+I also enjoy chess, playing guitar, weight lifting, and hiking.
 
