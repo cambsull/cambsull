@@ -10,9 +10,9 @@ In the summer of 2023, I decided to change my career trajectory. I have always b
 
 In May of 2024, I started doing contract work for a startup called [Aquifer PE](https://aquiferpe.com). What started as pitching in on a few small coding tasks eventually grew to me being responsible for designing and building the entire front-end! It was the first time that my skills were put to the test in a real-world environment where real people had invested their time, energy, and money into a product. I'm very happy to say that as of February 2026, Aquifer PE is still gaining steam and onboarding new users!
 
-In the summer of 2025, a friend from back home had a need for another engineer in his department. He put my name in for consideration, and after a couple of weeks I got an interview request! My friend had seen my progress from the very first basics of HTML all the way up through my work with Aquifer PE, and between his heartfelt recommendation and my interview performance, I finally achieved my dream of getting a full-time job in tech!
+In the summer of 2025, a friend notified me of a job opportunity back where I started, in eastern Washington. I applied for the job and was selected for an interview based on my experience with Aquifer PE and a recommendation from a current employee. I wasn't quite sure what to expect going into the interview, but it ended up being more of a situation where my work spoke for itself, which was very validating. Fortunately, I was eventually offered the job, and I've been employed there full-time since September of 2025!
 
-I love my work and can't imagine doing anything else. To me, there's nothing like software engineering to offer that particular blend of research, problem-solving, tinkering, and just plain fun.
+I still feel that same sense of magic that I felt when I very first started- the idea that if you ask this machine in the correct way, you can make it do anything you can imagine is something that I will always find compelling.
 
 ## The other stuff: 
 
